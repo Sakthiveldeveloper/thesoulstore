@@ -121,3 +121,33 @@ Women
 Men
 
 
+category:5 but winter not need more
+sub_category: 11
+tag:92
+[
+    {
+        "product_id":1,
+        "product_name":"",
+        "category_id":1,
+        "category_name":"men",
+        "sub_category_id":1,
+        "sub_category_name":"topwear",
+        "tag_id": 1,
+        "tag_name":"T-Shirts",
+        "cost":499,
+        "original_prize":599,
+        "discribtion":"Member Savings 100",
+        "size":[
+            {
+                "size_id":1,
+                "size_name":""
+            },
+            {
+                "size_id":1,
+                "size_name":""
+            }
+        ]
+        
+    }
+]
+

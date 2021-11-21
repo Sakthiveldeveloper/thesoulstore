@@ -1,0 +1,378 @@
+[
+    {
+        "tag_id": 1,
+        "tag_name":"T-Shirts"
+    },
+    {
+        "tag_id": 2,
+        "tag_name":"Co-ord Sets men"
+    },
+    {
+        "tag_id": 3,
+        "tag_name":"Drop-Cut T-Shirts men"
+    },
+    {
+        "tag_id": 4,
+        "tag_name":"Full Sleeve T-Shirts"
+    },
+    {
+        "tag_id": 5,
+        "tag_name":"Oversized T-Shirts"
+    },
+    {
+        "tag_id": 6,
+        "tag_name":"Polos"
+    },
+    {
+        "tag_id": 7,
+        "tag_name":"Shirts men"
+    },
+    {
+        "tag_id": 8,
+        "tag_name":"Tank Tops & Vests"
+    },
+    {
+        "tag_id": 9,
+        "tag_name":"Hoodies & Sweatshirts men"
+    },
+    {
+        "tag_id": 10,
+        "tag_name":"Jackets  men"
+    },
+    {
+        "tag_id": 11,
+        "tag_name":"Sweaters men"
+    },
+    {
+        "tag_id": 12,
+        "tag_name":"Cotton Pants men"
+    },
+    {
+        "tag_id": 13,
+        "tag_name":"Joggers men"
+    },
+    {
+        "tag_id": 14,
+        "tag_name":"Shorts men"
+    },
+    {
+        "tag_id": 15,
+        "tag_name":"Nightwear men"
+    },
+    {
+        "tag_id": 16,
+        "tag_name":"Boxers men"
+    },
+    {
+        "tag_id": 17,
+        "tag_name":"Innerwear men"
+    },
+    {
+        "tag_id": 18,
+        "tag_name":"Cotton Masks"
+    },
+    {
+        "tag_id": 19,
+        "tag_name":"Socks men"
+    },
+    {
+        "tag_id": 20,
+        "tag_name":"Backpacks men"
+    },
+    ..
+    {
+        "tag_id": 21,
+        "tag_name":"Women's T-Shirts"
+    },
+    {
+        "tag_id": 22,
+        "tag_name":"Co-ord Sets women"
+    },
+    {
+        "tag_id": 23,
+        "tag_name":"Dresses women"
+    },
+    {
+        "tag_id": 24,
+        "tag_name":"Unisex T-Shirts women"
+    },
+    {
+        "tag_id": 25,
+        "tag_name":"Shirts women"
+    },
+    {
+        "tag_id": 26,
+        "tag_name":"Tank Tops women"
+    },{
+        "tag_id": 27,
+        "tag_name":"Hoodies & Sweatshirts women"
+    },
+    {
+        "tag_id": 28,
+        "tag_name":"Jackets women"
+    },
+    {
+        "tag_id": 29,
+        "tag_name":"Sweaters women"
+    },
+    {
+        "tag_id": 30,
+        "tag_name":"Joggers women"
+    },
+    {
+        "tag_id": 31,
+        "tag_name":"Nightwear women"
+    },
+
+    {
+        "tag_id": 32,
+        "tag_name":"All Day Pants women"
+    },
+    {
+        "tag_id": 33,
+        "tag_name":"Shorts women"
+    },
+    {
+        "tag_id": 34,
+        "tag_name":"Urban Leggings women"
+    },
+    {
+        "tag_id": 35,
+        "tag_name":"Innerwear women"
+    },
+    {
+        "tag_id": 36,
+        "tag_name":"Socks women"
+    },
+    {
+        "tag_id": 37,
+        "tag_name":"Backpacks women"
+    },
+    {
+        "tag_id": 38,
+        "tag_name":"Marvel"
+    },
+    {
+        "tag_id": 39,
+        "tag_name":"Iron Man"
+    },
+    {
+        "tag_id": 40,
+        "tag_name":"Captain America"
+    },
+    {
+        "tag_id": 41,
+        "tag_name":"Black Panther"
+    },
+    {
+        "tag_id": 42,
+        "tag_name":"Spider-Man"
+    },
+    {
+        "tag_id": 43,
+        "tag_name":"Deadpool"
+    },
+    {
+        "tag_id": 44,
+        "tag_name":"Captain Marvel"
+    },
+    {
+        "tag_id": 45,
+        "tag_name":"Hulk"
+    },
+
+    {
+        "tag_id": 46,
+        "tag_name":"Thor"
+    },
+    {
+        "tag_id": 47,
+        "tag_name":"Punisher"
+    },
+    {
+        "tag_id": 48,
+        "tag_name":"X-Men"
+    },
+
+    {
+        "tag_id": 49,
+        "tag_name":"DC Comics"
+    },
+    {
+        "tag_id": 50,
+        "tag_name":"Superman"
+    },
+    {
+        "tag_id": 51,
+        "tag_name":"Batman"
+    },
+    {
+        "tag_id": 52,
+        "tag_name":"Wonder Woman"
+    },
+    {
+        "tag_id": 53,
+        "tag_name":"The Flash"
+    },
+
+    {
+        "tag_id": 54,
+        "tag_name":"Joker"
+    },
+    {
+        "tag_id": 55,
+        "tag_name":"Harry Potter"
+    },
+    {
+        "tag_id": 56,
+        "tag_name":"WWE"
+    },
+    {
+        "tag_id": 57,
+        "tag_name":"F.R.I.E.N.D.S"
+    },{
+        "tag_id": 58,
+        "tag_name":"Disney"
+    },
+    {
+        "tag_id": 59,
+        "tag_name":"Rick and Morty"
+    },
+    {
+        "tag_id": 60,
+        "tag_name":"Star Wars"
+    },
+    {
+        "tag_id": 61,
+        "tag_name":"Dragon Ball Z"
+    },
+    {
+        "tag_id": 62,
+        "tag_name":"Garfield"
+    },
+    {
+        "tag_id": 63,
+        "tag_name":"Looney Tunes"
+    },
+    {
+        "tag_id": 64,
+        "tag_name":"Peanuts"
+    },
+    {
+        "tag_id": 65,
+        "tag_name":"Courage The Cowardly Dog"
+    },
+    {
+        "tag_id": 66,
+        "tag_name":"Tom and Jerry"
+    },
+    {
+        "tag_id": 67,
+        "tag_name":"The Powerpuff Girls"
+    },
+    {
+        "tag_id": 68,
+        "tag_name":"Johnny Bravo"
+    },{
+        "tag_id": 69,
+        "tag_name":"Scooby Doo"
+    },
+
+    {
+        "tag_id": 70,
+        "tag_name":"SpongeBob SquarePants"
+    },
+    {
+        "tag_id": 71,
+        "tag_name":"Dexter's Laboratory"
+    },
+    {
+        "tag_id": 72,
+        "tag_name":"Liverpool FC"
+    },
+    {
+        "tag_id": 73,
+        "tag_name":"Chennai Super Kings"
+    },
+
+    {
+        "tag_id": 74,
+        "tag_name":"Mumbai Indians"
+    },
+    {
+        "tag_id": 75,
+        "tag_name":"Kolkata Knight Riders"
+    },
+
+    {
+        "tag_id": 76,
+        "tag_name":"Rajasthan Royals"
+    },
+    {
+        "tag_id": 77,
+        "tag_name":"Fnatic"
+    },
+    {
+        "tag_id": 78,
+        "tag_name":"OR Esports"
+    },
+    {
+        "tag_id": 79,
+        "tag_name":"Funny"
+    },
+    {
+        "tag_id": 80,
+        "tag_name":"Girl Power"
+    },
+    {
+        "tag_id": 81,
+        "tag_name":"Food"
+    },
+    {
+        "tag_id": 82,
+        "tag_name":"Solids"
+    },
+    {
+        "tag_id": 83,
+        "tag_name":"Patterns"
+    },
+    {
+        "tag_id": 84,
+        "tag_name":"Travel"
+    },
+    {
+        "tag_id": 85,
+        "tag_name":"Animals"
+    },
+    {
+        "tag_id": 86,
+        "tag_name":"Desi"
+    },{
+        "tag_id": 87,
+        "tag_name":"Quotes"
+    },
+
+    {
+        "tag_id": 88,
+        "tag_name":"Geeky"
+    },
+    {
+        "tag_id": 89,
+        "tag_name":"Humans Of Bombay"
+    },
+
+    {
+        "tag_id": 90,
+        "tag_name":"Aakash Gupta New"
+    },
+
+    {
+        "tag_id": 91,
+        "tag_name":"Pause for Paws"
+    },
+    {
+        "tag_id": 92,
+        "tag_name":"Beebom"
+    }
+
+]
