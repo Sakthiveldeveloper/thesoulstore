@@ -79,7 +79,7 @@
         "tag_id": 20,
         "tag_name":"Backpacks men"
     },
-    ..
+    
     {
         "tag_id": 21,
         "tag_name":"Women's T-Shirts"
@@ -103,7 +103,8 @@
     {
         "tag_id": 26,
         "tag_name":"Tank Tops women"
-    },{
+    },
+    {
         "tag_id": 27,
         "tag_name":"Hoodies & Sweatshirts women"
     },
@@ -140,14 +141,17 @@
         "tag_id": 35,
         "tag_name":"Innerwear women"
     },
+    
     {
         "tag_id": 36,
         "tag_name":"Socks women"
     },
+
     {
         "tag_id": 37,
         "tag_name":"Backpacks women"
     },
+    
     {
         "tag_id": 38,
         "tag_name":"Marvel"
