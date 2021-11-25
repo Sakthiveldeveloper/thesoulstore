@@ -113,7 +113,7 @@ body{
     position: absolute;
     left: 0;
     top: calc(100% + .25rem);
-    background-color: khaki;
+    background-color: lightgray;
     padding: .75rem;
     border-radius: .25rem;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
@@ -377,7 +377,7 @@ body{
 /*----------------------------------------------------------------*/
 #headernav3c{
     height:80px;
-    background-color:khaki;
+    background-color:whitesmoke;
 }
 /*----------------------------------------------------------------*/
 #headernav3d{
@@ -388,34 +388,55 @@ body{
 /*----------------------------------------------------------------*/
 /*----------------------------------------------------------------*/
 /*----------------------------------------------------------------*/
-.body-content{
-    height:100px;
-    background-color:whitesmoke
-}
-#body1{
+.containerr{
+    height:2900px;
     background-color:yellow;
-    height:350px
 }
-#body2{
-    background-color:navy;
-    height:200px
+#carouselfront{
+    height:360px;
+    background-color:white;
 }
-#body3{
-    background-color:forestgreen;
-    height:200px
+#category{
+    height: 500px;
+    background-color:orange;
 }
-#body4{
-    background-color:blue;
-    height:200px
-}
-#body5{
-    background-color:khaki;
-    height:200px
-}
-#body6{
+#category1{
     background-color:red;
-    height:200px
+    height:100px;
 }
+#category2{
+    background-color:lawngreen;
+    height:100px;
+}
+#category3{
+    background-color:hotpink;
+    height:100px;
+}
+#category4{
+    background-color:slateblue;
+    height:100px;
+}
+#category5{
+    background-color:aqua;
+    height:100px;
+}
+#Newarrival{
+    height:500px;
+    background-color:royalblue
+}
+#officialmerchandise{
+    height:500px;
+    background-color:seagreen
+}
+#topselling{
+    height:500px;
+    background-color:red
+}
+#exmember{
+    height:500px;
+    background-color:fuchsia
+}
+
 /*----------------------------------------------------------------*/
 
                         /*FOOTER*/
