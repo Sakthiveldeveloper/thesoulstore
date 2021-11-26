@@ -29,6 +29,11 @@ body{
     text-align: right;
     width:100%;
 }
+#header1 a{
+    text-decoration: none;
+    color:#ddd
+
+}
 #headcontactus{
     height:25px;
     background-color:#e60000;
