@@ -65,3 +65,84 @@ body {
   .login-form > input {
     margin-bottom: .5rem;
   }
+
+
+
+
+
+
+  
+.container{
+  height:4000px;
+  background-color:rosybrown;
+  
+}
+.containerr{
+  height:2000px;
+  background-color:whitesmoke;
+  display: inline-block;
+  width: 100%;
+  margin-left: 1.5%;
+}
+#category{
+  height: 2000px;
+  
+}
+#category1{
+  height:80px;
+  background-color: wheat;
+  width: 100%;
+
+}
+#category1 span{
+  font-size:22px;
+  font-weight:bolder;
+  color: #3B5998;
+  display: inline-block;
+  margin-left: 40%;
+  margin-top: 30px;
+}
+#category2{
+  background-color:lawngreen;
+  height:384px;
+}
+#category3{
+  background-color:hotpink;
+  height:384px;
+}
+#category4{
+  background-color:slateblue;
+  height:384px;
+}
+#category5{
+  background-color:aqua;
+  height:384px;
+}
+#category6{
+  background-color:rebeccapurple;
+  height:384px;
+}
+#Newarrival{
+  height:500px;
+  background-color:royalblue;
+  width: 100%;
+
+}
+#officialmerchandise{
+  height:500px;
+  background-color:seagreen;
+  width: 100%;
+
+}
+#topselling{
+  height:500px;
+  background-color:red;
+  width: 100%;
+
+}
+#exmember{
+  height:500px;
+  background-color:fuchsia;
+  width: 100%;
+
+}
