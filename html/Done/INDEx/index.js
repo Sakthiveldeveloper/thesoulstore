@@ -25,9 +25,6 @@ document.addEventListener("click", e => {
 
 
 
-
-
-
 /****
 var acc = document.getElementsByClassName("accordion");
 var i;

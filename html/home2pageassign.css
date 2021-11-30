@@ -1,0 +1,255 @@
+body{
+    margin:auto
+}
+#header{
+    height: 80px;
+    width: 100%;
+    background-color:red;
+}
+#login{
+    margin-left:75%;
+    color:white;
+    margin-top:-4%;
+}
+#login> a{
+    text-decoration: none;
+    font-size: 17px;
+    color:white;
+    font-weight: bold;
+}
+#loginbox{
+    padding: 8px;
+    border: 1px solid white;
+    margin: 9%;
+    box-shadow: 0px 0px 4px white;
+}
+#logo{
+    height: 60px;
+    width: 60px;
+    background-color:white;
+    border-radius: 50%;
+    margin-left: 70px;
+    display: inline-block;
+    margin-top: 1%;
+    font-size: 45px;
+    font-weight:bold;
+}
+#heading{
+    margin: 21%;
+    color: red;
+}
+
+/*--Filter-*/
+#main{
+    height: 670px;
+    width: 95%;
+    background-color:white;
+}
+/*- main--*/
+
+#main{
+    margin-left: 12%;
+    margin-top: 5%;
+}
+#filter{
+    height: 590px;
+    width: 20%;
+    float: left;
+    border: 5px shadow black;
+    box-shadow: 0px 0px 4px gray;
+    margin-bottom: 2%;
+    background-color: white;
+    line-height: 24px;
+    background-origin: padding-box
+    
+}
+.main_fliter{
+    margin-top: 10%;
+    margin-left: 20px;
+    color: grey;
+
+}
+select{
+    height: 25px;
+    width: 80%;
+    font-size:12px;
+    color: grey;
+    margin-top: -5%;
+    
+}
+#select_title{
+    font-size: 17px;
+    font-weight: bold;
+    color:#4b467a;
+    margin-top: 4%;
+}
+#filter_tile{
+    font-size: 21px;
+    font-weight: bold;
+    color:#4b467a;
+}
+.filter_title{
+    font-size: 16px;
+    font-weight: bold;
+    color:#4b467a;
+}
+.filter_exterspace{
+    margin-top: 5%;
+}
+                        /*--Content of body--*/
+#content{
+    width: 65%;
+    margin-left: 5%;
+    float: left;
+    margin-top: -2%;
+    margin-bottom: 2%;
+    
+    margin-left: 4%;
+}
+.list_content{
+    width: 90%;
+    background-color:white;
+    height: 240px;
+    box-shadow: 0px 0px 4px gray;
+    margin-top: 5%;
+}
+.contentcomponent1{
+    height: 150px;
+    width: 100%;
+    
+}
+.contentcomponent2{
+    height: 110px;
+    width: 100%;
+    
+}
+.contentimg{
+    height: 65%;
+    width: 16%;
+    border-radius: 20%;
+    margin-top: 4%;
+    margin-left: 4%;
+    float: left;
+}
+.contentdetails{
+    float: left;
+    margin-left: 30px;
+    margin-top: 3%;
+    
+}
+.contentname{
+    font-size:23px;
+    font-weight: bold;
+    color: rgba(8, 8, 70, 0.904);
+    margin-top: 20px;
+}
+.contentaddress{
+    font-size:14px;
+    color:gray;
+    margin-top:15px;
+}
+.ca1{
+    font-weight: bold;
+}
+.ca2{
+    margin-top: 9px;
+}
+/*---double line hr
+hr{
+    border-top: 3px double #8c8b8b;
+    margin-left: 20px;
+    width:90%;
+}---*/
+hr{
+    box-shadow: 3px gray;
+    margin-left: 25px;
+    width:90%;
+    color:grey
+    
+}
+.contenttype{
+    float: left;
+    margin-left: 4%;
+    margin-top: 2%;
+    color: gray;
+    font-size: 12px;
+    font-weight: bold;
+}
+.contentdata{
+    float: left;
+    margin-left: 20px;
+    margin-top: 2%;
+    color:grey;
+    font-weight: bold;
+    font-size: 10px;
+}
+.caa1{
+    font-weight: bold;
+    font-size: 15px;
+}
+.caa2{
+    margin-top: 6px;
+    font-size: 15px;
+}
+/*-- pagenumber*/
+.center {
+    text-align: center;
+  }
+  
+  .pagination {
+    display: inline-block;
+  }
+  
+  .pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin-left: -1%;
+    margin-top: -5%;
+  }
+  
+  .pagination a.active {
+    background-color: gray;
+    color: white;
+    border: 1px solid grey;
+  }
+  
+  .pagination a:hover:not(.active) {background-color: #ddd;}
+
+                    /*---footer ---*/
+#footer{
+    height: 90px;
+    width: 100%;
+    background-color:black;
+}
+#content1{
+    height: 80px;
+    width: 38%;
+    margin-left:40px;
+}
+#content1> img{
+    height: 30px;
+    margin-top: 7%;
+}
+#content2{
+    margin-left: 44%;
+    margin-top: -5%;
+    color:white;
+    font-size: 17px;
+    font-weight: bold;
+}
+#content3{
+    margin-left: 87%;
+    margin-top: -2%;
+}
+.logo{
+    height: 20px;
+    width: 20px;
+}
+a{
+    text-decoration:none;
+}
+
