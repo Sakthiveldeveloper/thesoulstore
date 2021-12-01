@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "city":1,
+        "city_name":"Delhi",
+        "state_id":1,
+        "state_name":"NewDelhi",
+        "country_name":"India"
+    },
+    {
+        "id":2,
+        "city":2,
+        "city_name":"Mumbai",
+        "state_id":2,
+        "state_name":"Maharashtra",
+        "country_name":"India"
+    },
+    {
+        "id":3,
+        "city":3,
+        "city_name":"vellore",
+        "state_id":3,
+        "state_name":"TamilNadu",
+        "country_name":"India"
+    }
+
+]

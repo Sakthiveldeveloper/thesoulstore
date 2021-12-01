@@ -1,0 +1,789 @@
+[
+    {
+        "college_id": 1,
+        "college_name": "Indira Gandhi National Open University",
+        "city_id": 1,
+        "state_id": 1,
+        "address": "93, Maidan Garhi Rd, Maidan Garhi, New Delhi, Delhi 110068",
+        "college_thumb": "https://i.ibb.co/ryZX09Y/indira.jpg",
+        "average_rating": 3.9,
+        "approved":"UGC AITCE NAAC",
+        "section":"Central",
+        "rating_text": "Very Good",
+        "fees": 36666,
+        "contact_number": 9453524651,
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            },
+            {
+                "studytype_id":4,
+                "studytype":"Hotel Management"
+                
+            }
+        ],
+        
+        "stages": [
+            {
+                "stage_id":1,
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":2,
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":3,
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/ryZX09Y/indira.jpg",
+            "https://i.ibb.co/RpSYFXv/indira1.jpg",
+            "https://i.ibb.co/W2kpS4f/indira2.png",
+            "https://i.ibb.co/LJF2yKc/indira4.png"
+        ]
+    },
+    {
+        "college_id": 2,
+        "college_name": "Jamia Millia Islamia University",
+        "city_id": 1,
+        "state_id": 1,
+        "address": "Jamia Millia Islamia, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+        "college_thumb": "https://i.ibb.co/r7TDyG0/islamic.webp",
+        "average_rating": 4.9,
+        "approved":"UGC, ACC",
+        "section":"central",
+        "rating_text": "Very Good",
+        "fees": 46666,
+        "contact_number": "011 2698 1717",
+        "studyTypes": [
+            { 
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            }
+        ],
+        
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/SX386H1/islamic1.jpg",
+            "https://i.ibb.co/f81nypK/islamic2.jpg",
+            "https://i.ibb.co/Sf7pGW0/islamic3.jpg",
+            "https://i.ibb.co/CnT66zq/islamic4.jpg"
+        ]
+    },
+    {
+        "college_id": 3,
+        "college_name": "Jawaharlal  Nehru  University",
+        "city_id": 1,
+        "state_id": 1,
+        "address": "New Mehrauli Road, JNU Ring Rd, New Delhi, Delhi 110067",
+        "college_thumb": "https://i.ibb.co/7X6mnGg/JNU.jpg",
+        "average_rating": 4.2,
+        "approved":"NAAC,UGC",
+        "section":"Central",
+        "rating_text": "Very Good",
+        "fees": 26666,
+        "contact_number": "011 2674 2575",
+        "studyTypes": [
+            { 
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/6HGkqQs/JNU1.jpg",
+            "https://i.ibb.co/VxQMsMQ/JNU2.jpg",
+            "https://i.ibb.co/N2Sj8QY/JNU3.jpg",
+            "https://i.ibb.co/p0MhR82/JNU4.jpg"
+        ]
+    },
+    {
+        "college_id": 4,
+        "college_name": "University of Delhi",
+        "city_id": 1,
+        "state_id": 1,
+        "address": "Benito Juarez Marg, South Campus, South Moti Bagh, New Delhi, Delhi 110021",
+        "college_thumb": "https://i.ibb.co/vQ8kvD4/univeristy-of-delhi.webp",
+        "average_rating": 4.2,
+        "approved":"NAAC,UGC",
+        "section":"Central",
+        "rating_text": "Very Good",
+        "fees": 16666,
+        "contact_number": "011 2700 6900",
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/vQ8kvD4/univeristy-of-delhi.webp",
+            "https://i.ibb.co/ngvCZzb/univeristy-of-delhi3.png",
+            "https://i.ibb.co/ypfXRZg/univeristy-of-delhi1.jpg",
+            "https://i.ibb.co/cxdTHkg/univeristy-of-delhi2.jpg"
+        ]
+    },
+    {
+        "college_id": 5,
+        "college_name": "Delhi  Technological  University",
+        "city_id": 1,
+        "state_id": 1,
+        "address": "ABawana Rd, Delhi Technological University, Shahbad Daulatpur Village, Rohini, New Delhi, Delhi 110042",
+        "college_thumb": "https://i.ibb.co/m04kkPv/UOT.jpg",
+        "average_rating": 3.2,
+        "approved":"NAAC UGC",
+        "section":"State",
+        "rating_text": "Good",
+        "fees": 20000,
+        "contact_number": 9453524651,
+        "studyTypes": [
+            { 
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            }
+            
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/hW4QfNW/UOT1.jpg",
+            "https://i.ibb.co/ZHMSz0B/UOT2.jpg",
+            "https://i.ibb.co/kmqyBtq/UOT4.jpg",
+            "https://i.ibb.co/6sfQwk1/UOT5.jpg"
+        ]
+    },
+    {
+        "college_id": 6,
+        "college_name": "National Law University",
+        "city_id": 1,
+        "state_id": 1,
+        "address": "Golf Course Rd, Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi, Delhi 110078",
+        "college_thumb": "https://i.ibb.co/B691H6T/nlu1.png",
+        "average_rating": 4.6,
+        "approved":"UGC AIU NAAC BCI",
+        "section":"State",
+        "rating_text": "Very Good",
+        "fees": 30000,
+        "contact_number": "011 2803 4257",
+        "studyTypes": [
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            }
+            
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/1qYX4qt/nlu2.png",
+            "https://i.ibb.co/xsTZWB0/nlu3.jpg",
+            "https://i.ibb.co/mtyMy6f/nlu4.jpg",
+            "https://i.ibb.co/B691H6T/nlu1.png"
+        ]
+    },
+    {
+        "college_id": 7,
+        "college_name": "Netaji Subhas University of Technology",
+        "city_id": 1,
+        "state_id": 1,
+        "address": "Dwarka Sector-3, Dwarka, Delhi, 110078",
+        "college_thumb": "https://i.ibb.co/qDMx140/NSU1.jpg",
+        "average_rating": 4.8,
+        "approved":"UGC AITCE NAAC",
+        "section":"state",
+        "rating_text": "Very Good",
+        "fees": 16666,
+        "contact_number": 9453524651,
+        "studyTypes": [
+            { 
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            {
+                "studytype_id":3,
+                "studytype":"Management"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            }
+            
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/yWfnRQt/NSU2.jpg",
+            "https://i.ibb.co/d0CqnLT/NSU3.png",
+            "https://i.ibb.co/DpQw7v5/NSU4.png",
+            "https://i.ibb.co/qDMx140/NSU1.jpg"
+        ]
+    },
+    {
+        "college_id": 8,
+        "college_name": "Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya",
+        "city_id": 2,
+        "state_id": 2,
+        "address": "Gandhi Hills, Manas Mandir P.O, Wardha, Maharashtra 442005",
+        "college_thumb": "https://i.ibb.co/RNcjPb8/MGA1.png",
+        "average_rating": 3.2,
+        "approved":"UGC",
+        "section":"central",
+        "rating_text": "Good",
+        "fees": 23470,
+        "contact_number": 9453524651,
+        "studyTypes": [
+            { 
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/RNcjPb8/MGA1.png",
+            "https://i.ibb.co/j6Fj7PD/MGA2.jpg",
+            "https://i.ibb.co/QPqB4SQ/MGA3.jpg"
+            
+        ]
+    },
+    {
+        "college_id": 9,
+        "college_name": "Mumbai University",
+        "city_id": 2,
+        "state_id": 2,
+        "address": "Mahatma Gandhi Road, Mantralaya, Fort, Mumbai, Maharashtra 400032",
+        "college_thumb": "https://i.ibb.co/MgYC8M8/MU.jpg",
+        "average_rating": 4.0,
+        "approved":"UGC",
+        "section":"state",
+        "rating_text": "Very Good",
+        "fees": 36666,
+        "contact_number": 9453524651,
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            }
+            
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/MgYC8M8/MU.jpg",
+            "https://i.ibb.co/R9vzfdt/MU1.jpg",
+            "https://i.ibb.co/DRHgH2t/MU2.jpg"
+            
+        ]
+    },
+    {
+        "college_id": 10,
+        "college_name": "Kavayitri Bahinabai Chaudhari North Maharashtra University Jalgaon",
+        "city_id": 2,
+        "state_id": 2,
+        "address": "Umavi Nagar, Jalgaon, Maharashtra 425001",
+        "college_thumb": "https://i.ibb.co/kQr39DQ/NMU.jpg",
+        "average_rating": 4.7,
+        "approved":"UGC NAAC",
+        "section":"state",
+        "rating_text": "Good",
+        "fees": 40000,
+        "contact_number": "0257 225 7250",
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/kQr39DQ/NMU.jpg",
+            "https://i.ibb.co/QHqwTVF/NMU2.jpg",
+            "https://i.ibb.co/GFsj7gX/NMU3.jpg",
+            "https://i.ibb.co/zRdLF0B/NMU4.jpg"
+        ]
+    },
+    
+    {
+        "college_id": 11,
+        "college_name": "Savitribai Phule Pune University",
+        "city_id": 2,
+        "state_id": 2,
+        "address": "Ganeshkhind Rd, Ganeshkhind, Pune, Maharashtra 411007",
+        "college_thumb": "https://i.ibb.co/bvp9VRT/MUP.jpg",
+        "average_rating": 3.9,
+        "approved":"UGC NAAC",
+        "section":"state",
+        "rating_text": "Good",
+        "fees": 30000,
+        "contact_number": "020 2569 0062",
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            },
+            {
+                "studytype_id":4,
+                "studytype":"Hotel Management"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+            
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/bvp9VRT/MUP.jpg",
+            "https://i.ibb.co/4gQ6FF5/MUP1.webp",
+            "https://i.ibb.co/GcktThC/MUP2.jpg",
+            "https://i.ibb.co/1smjcVk/MUP3.jpg"
+            
+        ]
+    },
+    
+    {
+        "college_id": 12,
+        "college_name": "Vellore Institute of Technology",
+        "city_id": 3,
+        "state_id": 3,
+        "address": "VIT, Vellore Campus, Tiruvalam Rd, Katpadi, Vellore, Tamil Nadu 632014",
+        "college_thumb": "https://i.ibb.co/ZGpJZb5/VIT.png",
+        "average_rating": 4.8,
+        "approved":"UGC NAAC AITCE",
+        "section":"state",
+        "rating_text": "very Good",
+        "fees": 400000,
+        "contact_number": "0257 225 7250",
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            },
+            {
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            {
+                "studytype_id":4,
+                "studytype":"Hotel Management"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/ZGpJZb5/VIT.png",
+            "https://i.ibb.co/smF6Hnz/VIT.jpg",
+            "https://i.ibb.co/TRZZKYY/VIT1.jpg",
+            "https://i.ibb.co/Dzj8FqN/VIT2.jpg"
+            
+        ]
+    },
+    
+    {
+        "college_id": 13,
+        "college_name": "Sathyabama Institute of science and technology information",
+        "city_id": 3,
+        "state_id": 3,
+        "address": "SH 49A, Semmancheri, Chennai, Tamil Nadu 600119",
+        "college_thumb": "https://i.ibb.co/47sRZpv/SNM.jpg",
+        "average_rating": 4.9,
+        "approved":"UGC NAAC AITCE",
+        "section":"state",
+        "rating_text": "very Good",
+        "fees": 400000,
+        "contact_number": "044 2450 3150",
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            },
+            {
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            {
+                "studytype_id":4,
+                "studytype":"Hotel Management"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            }
+            
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/47sRZpv/SNM.jpg",
+            "https://i.ibb.co/TmCpyQw/SNM1.jpg",
+            "https://i.ibb.co/pZqc9Sh/SNM2.jpg",
+            "https://i.ibb.co/pKbRS28/SNM3.jpg"
+            
+        ]
+    },
+    
+    {
+        "college_id": 14,
+        "college_name": "SRM Institute of Science and Technology",
+        "city_id": 3,
+        "state_id": 3,
+        "address": "Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+        "college_thumb": "https://i.ibb.co/gySj5jr/SRM.png",
+        "average_rating": 4.9,
+        "approved":"UGC NAAC",
+        "section":"state",
+        "rating_text": " very Good",
+        "fees": 500000,
+        "contact_number": "044 2741 7000",
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            {
+                "studytype_id":2,
+                "studytype":"Medical&HealthSciences"
+            },
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            },
+            {
+                "studytype_id":1,
+                "studytype":"Engineering"
+            },
+            {
+                "studytype_id":4,
+                "studytype":"Hotel Management"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/gySj5jr/SRM.png",
+            "https://i.ibb.co/R3x4kbN/SRM1.jpg",
+            "https://i.ibb.co/TB2fTfx/SRM2.png",
+            "https://i.ibb.co/DwSCRYZ/SRM3.jpg"
+        ]
+    },
+    
+    {
+        "college_id": 15,
+        "college_name": "Central University of Tamil Nadu",
+        "city_id": 3,
+        "state_id": 3,
+        "address": "CUTN Bridge, Neelakudy, Tamil Nadu 610005",
+        "college_thumb": "https://i.ibb.co/DYyWfMn/CUT.jpg",
+        "average_rating": 4.7,
+        "approved":"UGC NAAC",
+        "section":"state",
+        "rating_text": "Good",
+        "fees": 20000,
+        "contact_number": "0257 225 7250",
+        "studyTypes": [
+            { 
+                "studytype_id":3,
+                "studytype":"Management"
+            },
+            
+            { 
+                "studytype_id":5,
+                "studytype":"Law"
+            },
+            {
+                "studytype_id":6,
+                "studytype":"Arts & Sciences"
+            }
+        ],
+        "stages": [
+            {
+                "stage_id":"1",
+                "stage_name":"Bachlor"
+            },
+            {
+                "stage_id":"2",
+                "stage_name":"Master"
+            },
+            {
+                "stage_id":"3",
+                "stage_name":"Distance"
+            }
+        ],
+        "image_gallery": [
+            "https://i.ibb.co/DYyWfMn/CUT.jpg",
+            "https://i.ibb.co/28tQRtk/CUT1.jpg",
+            "https://i.ibb.co/6mKCKCq/CUT2.jpg",
+            "https://i.ibb.co/5BKcjhc/CUT23.jpg"
+            
+        ]
+    }
+]

@@ -1,10 +1,11 @@
 var express = require('express');
 const app = express();
-const port= 8210;
+const port =process.env.PORT||8210;
 const mongo = require('mongodb');
 const MongoClient = mongo.MongoClient;
 //const mongourl= "mongodb://localhost:27017";
 const mongourl = "mongodb+srv://edureka:1234@cluster0.t9dwc.mongodb.net/tss?retryWrites=true&w=majority"
+//https://thesouledstoreapi.herokuapp.com/products
 let db;
 let col_name = "category"
 let col_name1 = "sub_category"

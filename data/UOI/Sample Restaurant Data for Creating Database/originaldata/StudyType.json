@@ -1,0 +1,38 @@
+[
+    {
+        "studytype_id":1,
+        "studytype":"Engineering",
+        "content":"Start your Dreams with exclusive Engineering options",
+        "study_image":" https://i.ibb.co/hRy3dGD/Team-of-Computer-Engineers-Lean-on-the-Desk-and-Choose-Printed-Circuit-Boards-to-Work-with-Computer.jpg"
+    },
+    {
+        "studytype_id":2,
+        "studytype":"Medical&HealthSciences",
+        "content":"Start your Dreams with exclusive Medical & Health Sciences options",
+        "study_image":"https://i.ibb.co/61vm92r/Healthcare-business-concept-Medical-examination-and-growth-graph-data-of-business-on-tablet-with-doc.jpg"
+    },
+    {
+        "studytype_id":3,
+        "studytype":"Management",
+        "content":"Start your Dreams with exclusive Management options",
+        "study_image":"https://i.ibb.co/cXqH7gc/Businessmanagement1.webp"
+    },
+    {
+        "studytype_id":4,
+        "studytype":"Hotel Management",
+        "content":"Start your Dreams with exclusive Hotel Management options",
+        "study_image":"https://i.ibb.co/CM9ydJL/Hotel-Management1.jpg"
+    },
+    {
+        "studytype_id":5,
+        "studytype":"Law",
+        "content":"Start your Dreams with exclusive Law options",
+        "study_image":"https://i.ibb.co/rQ4cf9h/Law.png"
+    },
+    {
+        "studytype_id":6,
+        "studytype":"Arts & Sciences",
+        "content":"Start your Dreams with exclusive Arts & Sciences options",
+        "study_image":"https://i.ibb.co/88MzsWV/Blackboard-inscribed-with-scientific-formulas-and-calculations-in-physics-and-mathematics-Can-illust.jpg"
+    }
+]

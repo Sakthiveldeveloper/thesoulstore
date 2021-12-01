@@ -1,0 +1,913 @@
+[
+    {
+        "course_id":1,
+        "course_name": "School of Humanities",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":2,
+        "course_name": "School of Social Sciences",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":3,
+        "course_name": "School of Sciences",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":4,
+        "course_name": "School of Education",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":5,
+        "course_name": "School of Continuing Education",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":6,
+        "course_name": "School of Engineering & Technology",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":7,
+        "course_name": "School of Management Studies",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":8,
+        "course_name": "",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":9,
+        "course_name": "School of Computer & Information Sciences",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":10,
+        "course_name": "School of Law",
+        "description": "discover your Dreams in this course",
+        "college_id": 1,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":11,
+        "course_name": "ACISE : ADVANCE CERTIFICATE IN INFORMATION SECURITY",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":12,
+        "course_name": "ACPDM : ADVANCED CERTIFICATE IN POWER DISTRIBUTION MANAGEMENT",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":13,
+        "course_name": "ACE : Appreciation Course on Environment",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":14,
+        "course_name": "ACPSD : Appreciation Course on Population and Sustainable Development",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":15,
+        "course_name": "APDF : Awareness Programme on Dairy Farming",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":16,
+        "course_name": "BAPFHMH : BA (PERFORMING ARTS) HINDUSTANI MUSIC HONOURS",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":17,
+        "course_name": "BAG : BACHELOR OF ARTS",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":18,
+        "course_name": "BTS : BACHELOR OF ARTS (TOURISM STUDIES)",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":19,
+        "course_name": "BAECH : Bachelor of Arts (HONOURS) ECONOMICS",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+
+    {
+        "course_id":20,
+        "course_name": "BAEGH : BACHELOR OF ARTS (HONOURS) ENGLISH",
+        "description": "discover your Dreams in this course",
+        "college_id": 2,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":21,
+        "course_name": "BAHDH : BACHELOR OF ARTS (HONOURS) HINDI",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":22,
+        "course_name": "BAHIH : BACHELOR OF ARTS (HONOURS) HISTORY",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":23,
+        "course_name": "BAPAH : BACHELOR OF ARTS (HONOURS) PUBLIC ADMINISTRATION",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":24,
+        "course_name": "BAPSH : Bachelor of Arts (Hons) Political Science",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":25,
+        "course_name": "BAVTM : Bachelor of Arts (Vocational Studies) Tourism Management",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":26,
+        "course_name": "BAPCH : Bachelor of Arts(Hons) Psychology",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":27,
+        "course_name": "BASOH : Bachelor of Arts(Hons) Sociology",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":28,
+        "course_name": "BBARL : Bachelor of Business Administration(RETAILING)",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":29,
+        "course_name": "BCOMG : Bachelor of Commerce",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":30,
+        "course_name": "BCOMCAA : BACHELOR OF COMMERCE (CORPORATE AFFAIRS AND ADMINISTRATION)",
+        "description": "discover your Dreams in this course",
+        "college_id": 3,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":31,
+        "course_name": "BCOMAF : Bachelor of Commerce(Accountancy and Finance)",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":32,
+        "course_name": "BCOMFCA : Bachelor of Commerce(FINANCIAL AND COST ACCOUNTING)",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":33,
+        "course_name": "BCA : BACHELOR OF COMPUTER APPLICATIONS",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":34,
+        "course_name": "BLIS : BACHELOR OF LIBRARY AND INFORMATION SCIENCE",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":35,
+        "course_name": "BSCG : Bachelor of Science",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":36,
+        "course_name": "BSCANH : BACHELOR OF SCIENCE (HONOURS) ANTHROPOLOGY",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":37,
+        "course_name": "BSCBCH : Bachelor of Science(Hons) Biochemistry",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":38,
+        "course_name": "BSWG : Bachelor of Social Work",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":39,
+        "course_name": "CIHL : CERT. IN INTERNATIONAL HUMANITARIAN LAW",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":40,
+        "course_name": "CRUL : CERTIFICATE IN RUSSIAN LANGUAGE",
+        "description": "discover your Dreams in this course",
+        "college_id": 4,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":41,
+        "course_name": "CAHT : CERTIFICATE IN ANTI HUMAN TRAFFICKING",
+        "description": "discover your Dreams in this course",
+        "college_id": 5,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":42,
+        "course_name": "CIB : CERTIFICATE IN BEEKEEPING",
+        "description": "discover your Dreams in this course",
+        "college_id": 5,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":43,
+        "course_name": "CBS : CERTIFICATE IN BUSINESS SKILLS        ",
+        "description": "discover your Dreams in this course",
+        "college_id": 5,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":44,
+        "course_name": "CCITSK : Certificate in Communication & IT Skills",
+        "description": "discover your Dreams in this course",
+        "college_id": 5,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":45,
+        "course_name": "CCR : CERTIFICATE IN COMMUNITY RADIO",
+        "description": "discover your Dreams in this course",
+        "college_id": 5,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":46,
+        "course_name": "CCP : Certificate in Consumer Protection",
+        "description": "discover your Dreams in this course",
+        "college_id": 6,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":47,
+        "course_name": "CDM : CERTIFICATE IN DISASTER MANAGEMENT",
+        "description": "discover your Dreams in this course",
+        "college_id": 6,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":48,
+        "course_name": "CETM : Certificate in Energy Technology and Management",
+        "description": "discover your Dreams in this course",
+        "college_id": 6,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":49,
+        "course_name": "CES : CERTIFICATE IN ENVIRONMENTAL STUDIES",
+        "description": "discover your Dreams in this course",
+        "college_id": 6,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":50,
+        "course_name": "CFDE : CERTIFICATE IN FASHION DESIGN",
+        "description": "discover your Dreams in this course",
+        "college_id": 6,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":51,
+        "course_name": "CFAID : CERTIFICATE IN FIRST AID",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":52,
+        "course_name": "CFN : CERTIFICATE IN FOOD AND NUTRITION",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":53,
+        "course_name": "CFL : CERTIFICATE IN FRENCH LANGUAGE",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":54,
+        "course_name": "CFE : CERTIFICATE IN FUNCTIONAL ENGLISH",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":55,
+        "course_name": "CGAS : Certificate in Gender, Agriculture and Sustainable Development",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":56,
+        "course_name": "CGDA : CERTIFICATE IN GENERAL DUTY ASSISTANCE",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":57,
+        "course_name": "CGCA : CERTIFICATE IN GERIATRIC CARE ASSISTANCE",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":58,
+        "course_name": "CGL : Certificate in German Language",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":59,
+        "course_name": "CIG : CERTIFICATE IN GUIDANCE",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":60,
+        "course_name": "CHCWM : CERTIFICATE IN HEALTH CARE WASTE MANAGEMENT",
+        "description": "discover your Dreams in this course",
+        "college_id": 7,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "30000"
+    },
+    {
+        "course_id":61,
+        "course_name": "CHBHC : CERTIFICATE IN HOME BASED HEALTH CARE",
+        "description": "discover your Dreams in this course",
+        "college_id": 8,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "40000"
+    },
+    {
+        "course_id":62,
+        "course_name": "CHHA : CERTIFICATE IN HOME HEALTH ASSISTANCE",
+        "description": "discover your Dreams in this course",
+        "college_id": 8,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "40000"
+    },
+    {
+        "course_id":63,
+        "course_name": "CHR : CERTIFICATE IN HUMAN RIGHTS",
+        "description": "discover your Dreams in this course",
+        "college_id": 8,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "40000"
+    },
+    {
+        "course_id":64,
+        "course_name": "CIT : CERTIFICATE IN INFORMATION TECHNOLOGY",
+        "description": "discover your Dreams in this course",
+        "college_id": 8,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "40000"
+    },
+    {
+        "course_id":65,
+        "course_name": "CJL : Certificate in Japanese Language",
+        "description": "discover your Dreams in this course",
+        "college_id": 8,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "40000"
+    },
+    {
+        "course_id":66,
+        "course_name": "CKLC : CERTIFICATE IN KOREAN LANGUAGE & CULTURE",
+        "description": "discover your Dreams in this course",
+        "college_id": 9,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":67,
+        "course_name": "CLIS : CERTIFICATE IN LIBRARY AND INFORMATION SCIENCE",
+        "description": "discover your Dreams in this course",
+        "college_id": 9,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":68,
+        "course_name": "CMCHN : CERTIFICATE IN MATERNAL AND CHILD HEALTH NURSING",
+        "description": "discover your Dreams in this course",
+        "college_id": 9,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":69,
+        "course_name": "CMAD : Certificate in Mobile Application Development",
+        "description": "discover your Dreams in this course",
+        "college_id": 9,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":70,
+        "course_name": "CNCC : CERTIFICATE IN NUTRITION AND CHILD CARE",
+        "description": "discover your Dreams in this course",
+        "college_id": 9,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":71,
+        "course_name": "COF : CERTIFICATE IN ORGANIC FARMING",
+        "description": "discover your Dreams in this course",
+        "college_id": 10,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":72,
+        "course_name": "CPAHM : CERTIFICATE IN PERFORMING ARTS -HINDUSTANI MUSIC",
+        "description": "discover your Dreams in this course",
+        "college_id": 10,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+
+    {
+        "course_id":73,
+        "course_name": "CPABN : CERTIFICATE IN PERFORMING ARTS-BHARATNATYAM",
+        "description": "discover your Dreams in this course",
+        "college_id": 10,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+
+    {
+        "course_id":74,
+        "course_name": "CPAKM : CERTIFICATE IN PERFORMING ARTS-KARNATAK MUSIC",
+        "description": "discover your Dreams in this course",
+        "college_id": 10,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+
+    {
+        "course_id":75,
+        "course_name": "CPATHA : CERTIFICATE IN PERFORMING ARTS-THEATRE ARTS",
+        "description": "discover your Dreams in this course",
+        "college_id": 10,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "20000"
+    },
+    {
+        "course_id":76,
+        "course_name": "CPEL : CERTIFICATE IN PERSIAN LANGUAGE",
+        "description": "discover your Dreams in this course",
+        "college_id": 11,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "50000"
+    },
+    {
+        "course_id":77,
+        "course_name": "CPHA : CERTIFICATE IN PHLEBOTOMY ASSISTANCE",
+        "description": "discover your Dreams in this course",
+        "college_id": 11,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "50000"
+    },
+    {
+        "course_id":78,
+        "course_name": "CPF : CERTIFICATE IN POULTRY FARMING",
+        "description": "discover your Dreams in this course",
+        "college_id": 11,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "50000"
+    },
+    {
+        "course_id":79,
+        "course_name": "CRD : CERTIFICATE IN RURAL DEVELOPMENT",
+        "description": "discover your Dreams in this course",
+        "college_id": 11,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "50000"
+    },
+    {
+        "course_id":80,
+        "course_name": "CIS : CERTIFICATE IN SERICULTURE",
+        "description": "discover your Dreams in this course",
+        "college_id": 11,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "50000"
+    },
+    {
+        "course_id":81,
+        "course_name": "CSWM : Certificate in Solid Waste Management",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":82,
+        "course_name": "CSWATT : Certificate in Solid Waste Treatment Techniques",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":83,
+        "course_name": "CSLC : CERTIFICATE IN SPANISH LANGUAGE & CULTURE",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":84,
+        "course_name": "CTE : Certificate in Teaching of English as a Second Language",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":85,
+        "course_name": "CTPM : CERTIFICATE IN TEACHING OF PRIMARY SCHOOL MATHEMATICS",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":86,
+        "course_name": "CTS : CERTIFICATE IN TOURISM STUDIES",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":87,
+        "course_name": "CTRBS : CERTIFICATE IN TRIBALS STUDIES",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":88,
+        "course_name": "CUL : CERTIFICATE IN URDU LANGUAGE",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":89,
+        "course_name": "CVAP : CERTIFICATE IN VISUAL ARTS PAINTING",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":90,
+        "course_name": "CVAA : CERTIFICATE IN VISUAL ARTS-APPLIED ARTS",
+        "description": "discover your Dreams in this course",
+        "college_id": 12,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "25000"
+    },
+    {
+        "course_id":91,
+        "course_name": "CWHM : CERTIFICATE IN WATER HARVESTING AND MANAGEMENT",
+        "description": "discover your Dreams in this course",
+        "college_id": 13,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "35000"
+    },
+    {
+        "course_id":92,
+        "course_name": "CCPD : Certificate of Competency in Power Distribution (Electrical Technicians)",
+        "description": "discover your Dreams in this course",
+        "college_id": 13,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "35000"
+    },
+    {
+        "course_id":93,
+        "course_name": "CLTA : CERTIFICATE PROG. ON LIFE AND THOUGHT OF DR. B.R. AMBEDKAR",
+        "description": "discover your Dreams in this course",
+        "college_id": 13,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "35000"
+    },
+    {
+        "course_id":94,
+        "course_name": "CNIN : CERTIFICATE PROGRAM IN NEWBORN AND INFANT NURSING",
+        "description": "discover your Dreams in this course",
+        "college_id": 13,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "35000"
+    },
+    {
+        "course_id":95,
+        "course_name": "CNM : CERTIFICATE PROGRAM IN NGO MANAGEMENT",
+        "description": "discover your Dreams in this course",
+        "college_id": 13,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "35000"
+    },
+    {
+        "course_id":96,
+        "course_name": "CPLT : CERTIFICATE PROGRAMME IN LABORATORY TECHNIQUES",
+        "description": "discover your Dreams in this course",
+        "college_id": 14,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "45000"
+    },
+    {
+        "course_id":97,
+        "course_name": "CPVE : CERTIFICATE PROGRAMME IN VALUE EDUCATION",
+        "description": "discover your Dreams in this course",
+        "college_id": 14,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "45000"
+    },
+    {
+        "course_id":98,
+        "course_name": "CPY : CERTIFICATE PROGRAMME IN YOGA",
+        "description": "discover your Dreams in this course",
+        "college_id": 14,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "45000"
+    },
+    {
+        "course_id":99,
+        "course_name": "CAHC : Certificate(Adolescent Health and Counseling )",
+        "description": "discover your Dreams in this course",
+        "college_id": 14,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "45000"
+    },
+    {
+        "course_id":100,
+        "course_name": "CAL : Certificate(Arabic Language)",
+        "description": "discover your Dreams in this course",
+        "college_id": 14,
+        "course_image": "",
+        "course_type": "fulltime",
+        "course_price": "45000"
+    }
+]

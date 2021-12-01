@@ -1,0 +1,14 @@
+[
+    {
+        "stage_id":"1",
+        "stage_name":"Bachlor"
+    },
+    {
+        "stage_id":"2",
+        "stage_name":"Master"
+    },
+    {
+        "stage_id":"3",
+        "stage_name":"Distance"
+    }
+]
