@@ -419,8 +419,10 @@ body{
 }
 
 .sticky + .content {
-    padding-top: 102px;
+    padding-top: 102px;   
 }
+/***************************Body staring***************************/
+/***************************Moving slides***************************/
 .container-fluid{
     height:360px;
 }

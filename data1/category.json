@@ -1,0 +1,22 @@
+[
+    {
+        "category_id":1,
+        "category_name":"men"
+    },
+    {
+        "category_id":2,
+        "category_name":"women"
+    },
+    {
+        "category_id":3,
+        "category_name":"themes"
+    },
+    {
+        "category_id":4,
+        "category_name":"supuimacollection"
+    },
+    {
+        "category_id":5,
+        "category_name":"winter"
+    }
+]
